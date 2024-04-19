@@ -65,12 +65,19 @@ Creating a tic-tac-toe web application entails leveraging HTML, CSS, and JavaScr
 Crafting a personal portfolio website as a web developer involves creating an engaging layout to highlight skills, projects, and achievements. The home page features a captivating headline, professional photo, and succinct summary of skills to immediately grab visitors' attention. An "About Me" section offers a detailed background, education, and professional experience, providing insight into expertise and qualifications. Through attractive design elements and clear navigation, the portfolio showcases proficiency in web development while demonstrating a commitment to professionalism and quality. It serves as a comprehensive platform for showcasing past projects, skills, and accomplishments, establishing credibility and attracting potential clients or employers. With a user-centric approach, the portfolio website aims to leave a lasting impression on visitors and effectively communicate the developer's capabilities and expertise.
 
 1 **Homepage Impact**: Create a captivating headline and use a professional photo to immediately engage visitors.
+
 2. **Skill Summary**: Provide a concise overview of skills on the homepage to showcase expertise at a glance.
-3. **About Me Section**: Include detailed information about background, education, and professional experience to give visitors a comprehensive understanding.
-4. **Project Showcase**: Highlight notable projects with descriptions, screenshots, or links to demonstrate proficiency and experience.
-5. **Responsive Design**: Ensure the website layout adapts seamlessly to different devices for optimal user experience.
-6. **Clear Navigation**: Implement intuitive navigation to allow visitors to easily explore different sections of the portfolio.
-7. **Call-to-Action**: Include a clear call-to-action prompting visitors to contact or connect with the developer for further inquiries or collaborations.
+
+4. **About Me Section**: Include detailed information about background, education, and professional experience to give visitors a comprehensive
+ understanding.
+
+6. **Project Showcase**: Highlight notable projects with descriptions, screenshots, or links to demonstrate proficiency and experience.
+
+8. **Responsive Design**: Ensure the website layout adapts seamlessly to different devices for optimal user experience.
+ 
+10. **Clear Navigation**: Implement intuitive navigation to allow visitors to easily explore different sections of the portfolio.
+
+12. **Call-to-Action**: Include a clear call-to-action prompting visitors to contact or connect with the developer for further inquiries or collaborations.
 
  # PRODIGY_TrackCode_Web_Development_WD_05
 
