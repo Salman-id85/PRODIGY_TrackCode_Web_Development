@@ -25,7 +25,7 @@ The interactive navigation menu, constructed through HTML, CSS, and JavaScript, 
 
 7. **Engagement Optimization**: By improving usability and aesthetics, the menu encourages user engagement.
 8. 
-9.  # PRODIGY_TrackCode_Web_Development_WD_02
+ # PRODIGY_TrackCode_Web_Development_WD_02
 
 10. Creating a stopwatch web application involves leveraging HTML for structure, CSS for styling, and JavaScript for functionality. HTML provides the framework for organizing elements such as buttons and displays. CSS enhances the visual presentation, allowing customization of colors and layouts for a polished appearance. JavaScript enables dynamic interaction, allowing users to start, pause, and reset the stopwatch. Lap time tracking functionality can also be implemented with JavaScript. Together, these technologies facilitate the creation of an intuitive and user-friendly stopwatch interface. With careful implementation, developers can ensure compatibility across different browsers and devices. The stopwatch application serves as a practical tool for measuring time intervals accurately. Its responsive design and interactive features enhance usability for a seamless user experience.
 
@@ -43,7 +43,7 @@ The interactive navigation menu, constructed through HTML, CSS, and JavaScript, 
   
 7. **Usability and Compatibility**: Prioritize usability and ensure compatibility with different browsers to deliver a seamless user experience.
 
-8. # PRODIGY_TrackCode_Web_Development_WD_03
+ # PRODIGY_TrackCode_Web_Development_WD_03
 
 9. Creating a tic-tac-toe web application entails leveraging HTML, CSS, and JavaScript to deliver an interactive gaming experience. HTML provides the structural framework for organizing the game board and user interface elements. CSS enhances the visual appeal by styling the game board, markers, and overall layout. JavaScript powers the game logic, enabling functions to handle user clicks, track game state, and determine winning conditions. With these functionalities in place, users can enjoy playing against each other or against an AI opponent, striving to achieve a winning combination of three markers in a row. Through careful implementation, developers can create a seamless and engaging tic-tac-toe experience that captivates players of all ages.
 
@@ -61,7 +61,7 @@ The interactive navigation menu, constructed through HTML, CSS, and JavaScript, 
 
 7. **Responsive Design**: Ensure the game interface adjusts seamlessly across various devices and screen sizes for an optimal user experience.
 
-8. # PRODIGY_TrackCode_Web_Development_WD_04
+# PRODIGY_TrackCode_Web_Development_WD_04
 
 9. Crafting a personal portfolio website as a web developer involves creating an engaging layout to highlight skills, projects, and achievements. The home page features a captivating headline, professional photo, and succinct summary of skills to immediately grab visitors' attention. An "About Me" section offers a detailed background, education, and professional experience, providing insight into expertise and qualifications. Through attractive design elements and clear navigation, the portfolio showcases proficiency in web development while demonstrating a commitment to professionalism and quality. It serves as a comprehensive platform for showcasing past projects, skills, and accomplishments, establishing credibility and attracting potential clients or employers. With a user-centric approach, the portfolio website aims to leave a lasting impression on visitors and effectively communicate the developer's capabilities and expertise.
 
@@ -73,7 +73,7 @@ The interactive navigation menu, constructed through HTML, CSS, and JavaScript, 
 6. **Clear Navigation**: Implement intuitive navigation to allow visitors to easily explore different sections of the portfolio.
 7. **Call-to-Action**: Include a clear call-to-action prompting visitors to contact or connect with the developer for further inquiries or collaborations.
 
-8. # PRODIGY_TrackCode_Web_Development_WD_05
+ # PRODIGY_TrackCode_Web_Development_WD_05
 
 9. Utilizing HTML, CSS, and JavaScript, create a dynamic web page fetching weather data from a specified location or user input. Display current weather conditions, temperature, and pertinent details sourced from a weather API. Ensure user-friendly interface design with intuitive controls for location input. Implement responsive layout for seamless viewing across devices. Utilize CSS gradients for visual appeal and modern aesthetics. Employ JavaScript to handle API requests and update weather information in real-time. Enhance user experience by providing accurate and timely weather updates.
 
