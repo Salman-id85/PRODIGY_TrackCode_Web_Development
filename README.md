@@ -45,6 +45,7 @@ The interactive navigation menu, constructed through HTML, CSS, and JavaScript, 
 
 Creating a tic-tac-toe web application entails leveraging HTML, CSS, and JavaScript to deliver an interactive gaming experience. HTML provides the structural framework for organizing the game board and user interface elements. CSS enhances the visual appeal by styling the game board, markers, and overall layout. JavaScript powers the game logic, enabling functions to handle user clicks, track game state, and determine winning conditions. With these functionalities in place, users can enjoy playing against each other or against an AI opponent, striving to achieve a winning combination of three markers in a row. Through careful implementation, developers can create a seamless and engaging tic-tac-toe experience that captivates players of all ages.
 
+
 1. **HTML Structure**: Develop the game board layout and user interface elements using HTML.
    
 2. **CSS Styling**: Style the game elements and layout using CSS to enhance visual presentation and aesthetics.
