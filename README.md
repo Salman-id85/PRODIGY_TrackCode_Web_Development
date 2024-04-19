@@ -1,3 +1,6 @@
+[Web_Development_WD_01](https://github.com/Salman-id85/PRODIGY_TrackCode_Web_Development/blob/main/README.md#prodigy_trackcode_web_development_wd_01)
+
+
 # PRODIGY_TrackCode_Web_Development_WD_01
 
 The interactive navigation menu, constructed through HTML, CSS, and JavaScript, represents a pivotal element in user interface design, bolstering navigation efficiency and user engagement. With its fixed position, the menu persists across pages, providing uninterrupted access to essential links. Leveraging JavaScript, the menu dynamically adapts, transitioning its background color as users scroll, thereby enhancing visibility and guiding user interaction. Furthermore, CSS hover effects augment the menu's responsiveness, offering intuitive feedback to user actions. This amalgamation of technologies not only facilitates seamless navigation but also elevates the aesthetic appeal of the interface, fostering a captivating user experience. Through its fluid functionality and visual enhancements, the menu optimizes usability, ensuring users effortlessly explore content while maximizing engagement.
